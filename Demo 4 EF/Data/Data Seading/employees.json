@@ -1,0 +1,52 @@
+[
+  {
+    "Name": "Ahmed",
+    "Age": 29,
+   
+    "Salary": 8000,
+   
+    "DepartmentDeptId": 10
+  },
+  {
+    "Name": "Nadia",
+    "Age": 27,
+   
+    "Salary": 5000,
+    
+    "DepartmentDeptId": 10
+  },
+  {
+    "Name": "Soha",
+    "Age": 20,
+    
+    "Salary": 3000,
+  
+    "DepartmentDeptId": 12
+  },
+  {
+    "Name": "Mazen",
+    "Age": 25,
+   
+    "Salary": 8000,
+    
+    "DepartmentDeptId": 10
+  },
+  {
+    "Name": "Sameh",
+    "Age": 30,
+   
+    "Salary": 9000,
+    
+    "DepartmentDeptId": 10
+  },
+  {
+    "Name": "Pola",
+    "Age": 30,
+
+    "Salary": 5000,
+
+    "DepartmentDeptId": 12
+
+
+  }
+]
